@@ -14,11 +14,11 @@
   
 - 👋 Hola, soy Daniel Pacheco.
   
-- 🌱 Actualmente estoy estudiando 3 semestre de un Tecnico Profesional en Desarrollo de Sotfware, mi intension es continuar estudiando
+- 🌱 Actualmente estoy estudiando 3 semestre de un Tecnico Profesional en Programacion de Sotfware, mi intension es continuar estudiando
 - hasta obtener mi titulo de Ingeniero en Programacion de Software o Quizas Electronica para asi combinar conocimientos interesantes que  me lleven a formar algo grandioso.
   
 - 💞️ Actualmente tengo conocimientos basicos en python, java, Json, mongodb, sql, css, html, y soy una persona proactiva,
--  dinamica con capacidad y buena aptitud para la resolucion de problemas, me gustaria y me entuciasma colaborar el proyectos donde pueda adquirir y pulir conocimientos.
+-  dinamica con capacidad y buena aptitud para la resolucion de problemas, me gustaria y me entuciasma colaborar en proyectos donde pueda adquirir y pulir conocimientos.
   
 - 📫 me pueden contactar al correo "danielpacosta93@gmail.com".
 
