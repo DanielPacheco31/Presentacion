@@ -2,7 +2,7 @@
   
 - 👋 Hello, I'm Daniel Pacheco.
   
-- 🌱 I am currently studying 3 semesters of a Professional Technician in Software Development, my intention is to continue studying
+- 🌱 I am currently studying 4 semesters of a Professional Technician in Software Development, my intention is to continue studying
 - until I obtain my title as an Engineer in SoftwareProgramming orElectronics in order to combine interesting knowledge that will lead me to form something great.
   
 - 💞️ I currently have basic knowledge in python, java, Json, mongodb, sql, css, html, and I am a proactive,
@@ -14,7 +14,7 @@
   
 - 👋 Hola, soy Daniel Pacheco.
   
-- 🌱 Actualmente estoy estudiando 3 semestre de un Tecnico Profesional en Programacion de Sotfware, mi intension es continuar estudiando
+- 🌱 Actualmente estoy estudiando 4 semestre de un Tecnico Profesional en Programacion de Sotfware, mi intension es continuar estudiando
 - hasta obtener mi titulo de Ingeniero en Programacion de Software o Quizas Electronica para asi combinar conocimientos interesantes que  me lleven a formar algo grandioso.
   
 - 💞️ Actualmente tengo conocimientos basicos en python, java, Json, mongodb, sql, css, html, y soy una persona proactiva,
